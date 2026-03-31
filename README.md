@@ -36,6 +36,8 @@ Libraries used :
 5 : seaborn  
 ## Project Architecture
 The model has the Pipeline of TfidfVectorizer followed by RandomForestClassifier.
+
+![image alt](https://github.com/Rimpa271/spam-message-spacy/blob/main/pipeline.jpg?raw=true)
 ## Steps
 1 : Loading dependencies - All the libraries that are used in this project is imported.  
                                           2 : Loading the dataset - The dataset is uploaded.  
