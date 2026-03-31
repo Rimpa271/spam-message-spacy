@@ -56,3 +56,7 @@ The model is evaluated on the basis of Accuracy and it has achieved an accuracy 
 The classification report of this project :
 
 ![image alt](https://github.com/Rimpa271/spam-message-spacy/blob/main/classification.jpg?raw=true)
+
+The color-based visual representation of the datas with the help of Heat map.
+
+![image alt](https://github.com/Rimpa271/spam-message-spacy/blob/main/heatmap.jpg?raw=true)
